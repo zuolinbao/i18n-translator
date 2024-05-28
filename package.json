@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "node index.js"
+    "excel_to_json": "node excel_to_json.js",
+    "json_to_excel": "node json_to_excel.js"
   },
   "author": "",
   "license": "ISC",

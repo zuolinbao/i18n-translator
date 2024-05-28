@@ -4,7 +4,7 @@
 
 ## 介绍
 
-根据项目中的 i18n.xlsx 生成 en.json 和 zh.json语言包
+根据excel_to_json目录中的 i18n.xlsx 生成 en.json 和 zh.json语言包
 
 ## 安装
 
@@ -15,12 +15,12 @@
 ## 运行
 
  ```
- npm run build
+ npm run excel_to_json
  ```
 
 ## 输出目录
 
 ```
-./result
+./excel_to_json
 ```
 

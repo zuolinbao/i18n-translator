@@ -2,7 +2,7 @@ const xlsx = require("xlsx");
 const fs = require("fs");
 
 // 指定 Excel 文件路径
-const filePath = "./i18n.xlsx"; // 修改为你的文件路径
+const filePath = "./excel_to_json/i18n.xlsx"; // 修改为你的文件路径
 
 // 读取 Excel 文件
 const workbook = xlsx.readFile(filePath);
@@ -32,10 +32,10 @@ data.forEach((row) => {
 });
 
 // 指定 JSON 文件路径
-const enJsonPath = "./result/en.json"; // 修改为你的文件路径
-const zhJsonPath = "./result/zh.json"; // 修改为你的文件路径
+const enJsonPath = "./excel_to_json/en.json"; // 修改为你的文件路径
+const zhJsonPath = "./excel_to_json/zh.json"; // 修改为你的文件路径
 
 // 保存 JSON 对象为文件
 fs.writeFileSync(enJsonPath, JSON.stringify(enDict, null, 4), "utf8");
 fs.writeFileSync(zhJsonPath, JSON.stringify(zhDict, null, 4), "utf8");
-console.log("%c result文件夹下查看结果", "color:#0f0;");
+console.log("json 文件已成功创建。");
