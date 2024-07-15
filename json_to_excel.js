@@ -1,38 +1,61 @@
-const fs = require("fs");
 const xlsx = require("xlsx");
+const fs = require("fs");
+const path = require("path");
 
-// 指定 JSON 文件路径
-const enJsonPath = "./json_to_excel/en.json"; // 修改为你的文件路径
-const zhJsonPath = "./json_to_excel/zh.json"; // 修改为你的文件路径
+// 读取目录下所有 JSON 文件
+function readJsonFiles(dir) {
+  const files = fs.readdirSync(dir);
+  let data = {};
 
-// 读取 JSON 文件
-const enData = JSON.parse(fs.readFileSync(enJsonPath, "utf8"));
-const zhData = JSON.parse(fs.readFileSync(zhJsonPath, "utf8"));
+  files.forEach((file) => {
+    if (path.extname(file) === ".json") {
+      const moduleName = path.basename(file, ".json");
+      const filePath = path.join(dir, file);
+      const fileData = JSON.parse(fs.readFileSync(filePath, "utf8"));
+      data[moduleName] = fileData;
+    }
+  });
 
-// 准备数据以创建 Excel 文件
-let data = [];
-
-// 遍历 enData 和 zhData，合并数据
-for (const module in zhData) {
-  for (const key in zhData[module]) {
-    data.push({
-      module: module,
-      key: key,
-      en: enData[module] ? enData[module][key] || "" : "",
-      zh: zhData[module][key],
-    });
-  }
+  return data;
 }
 
-// 创建工作表
-const worksheet = xlsx.utils.json_to_sheet(data);
+// 读取 en 和 zh 目录下的 JSON 文件
+const enDir = "./json_to_excel/en";
+const zhDir = "./json_to_excel/zh";
 
-// 创建工作簿
+const enData = readJsonFiles(enDir);
+const zhData = readJsonFiles(zhDir);
+
+// 合并数据
+let combinedData = [];
+let allModules = new Set([...Object.keys(enData), ...Object.keys(zhData)]);
+
+allModules.forEach((module) => {
+  const enModule = enData[module] || {};
+  const zhModule = zhData[module] || {};
+  let allKeys = new Set([...Object.keys(enModule), ...Object.keys(zhModule)]);
+
+  allKeys.forEach((key) => {
+    combinedData.push({
+      module: module,
+      key: key,
+      en: enModule[key] || "",
+      zh: zhModule[key] || "",
+    });
+  });
+});
+
+// 指定 Excel 文件路径
+const outputPath = "./json_to_excel/i18n_from_json.xlsx"; // 修改为你的文件路径
+
+// 将数据转换为工作表
+const worksheet = xlsx.utils.json_to_sheet(combinedData);
+
+// 创建一个新的工作簿
 const workbook = xlsx.utils.book_new();
-xlsx.utils.book_append_sheet(workbook, worksheet, "Sheet1");
+xlsx.utils.book_append_sheet(workbook, worksheet, "i18n");
 
 // 写入 Excel 文件
-const excelPath = "./json_to_excel/i18n.xlsx"; // 修改为你的文件路径
-xlsx.writeFile(workbook, excelPath);
+xlsx.writeFile(workbook, outputPath);
 
 console.log("Excel 文件已成功创建。");
