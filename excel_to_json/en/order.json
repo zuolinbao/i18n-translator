@@ -1,0 +1,19 @@
+{
+    "orderCode": "Order Code",
+    "busType": "Account",
+    "orderStatus": "Order Status",
+    "account": "Account Status",
+    "serviceTime": "Service Time",
+    "cust": "Cust",
+    "access": "Access Number",
+    "source": "Order Source",
+    "mobile": "Mobile Phone",
+    "phone": "TelePhone",
+    "email": "Email",
+    "fax": "Fax",
+    "corp": "Corp",
+    "createAccount": "Create Account",
+    "viewPlain": "View Plain",
+    "stop": "Stop",
+    "activate": "Activate"
+}

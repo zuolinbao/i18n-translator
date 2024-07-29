@@ -1,0 +1,17 @@
+{
+  "bulletinType": "Bulletin Type",
+  "type": "Status",
+  "markRead": "Mark as Read",
+  "markAllRead": "Mark All as Read",
+  "bulletinTitle": "Bulletin Title",
+  "bulletinTypeDefault": "Corporate Bulletin",
+  "publishDate": "Effective Date",
+  "expDate": "Expiration Date",
+  "read": "Read",
+  "unread": "Unread",
+  "unknown": "Unknown",
+  "detail": "Bulletin Detail",
+  "createDate": "Publication Date: ",
+  "updateDate": "Modification Date: ",
+  "back": "Back"
+}

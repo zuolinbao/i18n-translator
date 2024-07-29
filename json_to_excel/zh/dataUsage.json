@@ -1,0 +1,19 @@
+{
+  "offerUsage": "套餐使用量",
+  "custUsage": "用户总使用量",
+  "billCycle": "账期",
+  "usageType": "用量分类",
+  "offerName": "套餐名称",
+  "totalUsage": "套餐总使用量",
+  "usage": "已使用量",
+  "remain": "剩余量",
+  "data": "数据",
+  "voice": "语音",
+  "sms": "短信",
+  "all": "全部",
+  "flowMbDesc": "总流量（MB)",
+  "voiceMinsDesc": "语音时长（分钟）",
+  "smsDesc": "短信（条）",
+  "batchTitle1": "批量套餐使用量查询",
+  "batchTitle2": "用户总使用使用量查询"
+}

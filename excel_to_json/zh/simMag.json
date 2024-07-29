@@ -1,0 +1,15 @@
+{
+    "simStatus": "卡状态",
+    "addressId": "供应商",
+    "actDate": "激活时间",
+    "package": "套餐",
+    "cust": "企业",
+    "monthUsage": "当月使用量（MB）",
+    "use": "在用",
+    "stop": "停用",
+    "destroy": "拆机",
+    "batchImportTitle": "SIM卡批量查询",
+    "unactivated": "未激活",
+    "unactivated_test": "未激活(测试期)",
+    "activated_test": "已激活(测试期)"
+}

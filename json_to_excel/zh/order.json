@@ -1,0 +1,11 @@
+{
+  "orderCode": "订单编码",
+  "number": "号码",
+  "busType": "业务类型",
+  "orderStatus": "订单状态",
+  "account": "账号",
+  "serviceTime": "受理时间",
+  "cust": "客户",
+  "access": "接入号",
+  "source": "订单来源"
+}

@@ -1,7 +1,20 @@
 {
-    "key0": "en0",
-    "key1": "en1",
-    "key2": "en2",
-    "key3": "",
-    "key4": ""
+    "action": "Action",
+    "download": "Download",
+    "edit": "Edit",
+    "delete": "Delete",
+    "query": "Query",
+    "reset": "Reset",
+    "status": "Status",
+    "remark": "Remark",
+    "downloadMag": "Download Manage",
+    "basicInfo": "Basic Info",
+    "logout": "Logout",
+    "batchQuery": "Batch Query",
+    "batchImport": "Batch Import",
+    "batchDelete": "Batch Delete",
+    "export": "Export",
+    "beginTime": "Begin",
+    "endTime": "End",
+    "showMoreBtn": "More"
 }

@@ -1,0 +1,11 @@
+{
+  "orderCode": "Order Code",
+  "number": "Code",
+  "busType": "Account",
+  "orderStatus": "Order Status",
+  "account": "Account Status",
+  "serviceTime": "Service Time",
+  "cust": "Cust",
+  "access": "Access Number",
+  "source": "Order Source"
+}

@@ -1,0 +1,17 @@
+{
+    "account": "Account",
+    "userName": "User Name",
+    "statusCd": "Account Status",
+    "createTime": "Create Time",
+    "userCode": "Account Code",
+    "roleName": "Role",
+    "mobile": "Mobile Phone",
+    "phone": "TelePhone",
+    "email": "Email",
+    "fax": "Fax",
+    "corp": "Corp",
+    "createAccount": "Create Account",
+    "viewPlain": "View Plain",
+    "stop": "Stop",
+    "activate": "Activate"
+}

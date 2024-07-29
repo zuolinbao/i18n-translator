@@ -1,0 +1,15 @@
+{
+    "simStatus": "SIM Status",
+    "addressId": "Supplier",
+    "actDate": "Activate Time",
+    "package": "Package",
+    "cust": "enterprise",
+    "monthUsage": "Monthly Usage(MB)",
+    "use": "online",
+    "stop": "offline",
+    "destroy": "destroy",
+    "batchImportTitle": "Bulk SIM Card Inquiry ",
+    "unactivated": "Not Activated",
+    "unactivated_test": "Not Activated (Test Period)",
+    "activated_test": "Activated (Test Period)"
+}
