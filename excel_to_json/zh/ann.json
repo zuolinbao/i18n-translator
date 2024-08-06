@@ -1,0 +1,18 @@
+{
+    "bulletinType": "公告类型",
+    "type": "公告状态",
+    "markRead": "标记已读",
+    "markAllRead": "全部已读",
+    "bulletinTitle": "公告标题",
+    "bulletinTypeDefault": "企业公告",
+    "publishDate": "生效时间",
+    "expDate": "失效时间",
+    "read": "已读",
+    "unread": "未读",
+    "unknown": "未知",
+    "detail": "公告详情",
+    "createDate": "发布日期：",
+    "updateDate": "修改日期：",
+    "back": "返 回",
+    "setSuccess": "设置成功！"
+}

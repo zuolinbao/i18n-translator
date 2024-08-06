@@ -7,8 +7,8 @@
     "reset": "Reset",
     "status": "Status",
     "remark": "Remark",
-    "downloadMag": "Download Manage",
-    "basicInfo": "Basic Info",
+    "downloadMag": "Download Management",
+    "basicInfo": "Account",
     "logout": "Logout",
     "batchQuery": "Batch Query",
     "batchImport": "Batch Import",
@@ -16,5 +16,11 @@
     "export": "Export",
     "beginTime": "Begin",
     "endTime": "End",
-    "showMoreBtn": "More"
+    "showMoreBtn": "More",
+    "ok": "Ok",
+    "cancel": "Cancel",
+    "deleteSuccess": "Deleted successfully!",
+    "yes": "YES",
+    "no": "NO",
+    "save": "Save"
 }

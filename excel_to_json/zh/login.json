@@ -1,7 +1,7 @@
 {
     "loginBoxTitle": "欢迎来到国际CMP门户",
     "loginButton": "登录",
-    "loginType1EmailPh": "请输入用户账号/邮箱",
+    "loginType1EmailPh": "请输入账号/邮箱",
     "loginType2EmailPh": "请输入邮箱",
     "passwordPh": "请输入密码",
     "imageCodePh": "请输入图形验证码",
@@ -15,7 +15,7 @@
     "privacyDesPart3": "如果我是欧洲经济区或英国境内的用户,我确认我已阅读、许可并同意中国电信国际有限公司",
     "privacyDesPart4": "《GDPR 隐私政策声明》",
     "forgetPassword": "忘记密码？",
-    "loginTypePassword": "邮箱验证码登录",
+    "loginTypePassword": "密码登录",
     "loginTypeEmail": "邮箱验证码登录",
     "headerTitle": "国际物联网CMP平台",
     "leftTextPart1": "面向",

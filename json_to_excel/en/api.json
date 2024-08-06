@@ -1,8 +1,8 @@
 {
   "intro": "API Introduction",
-  "introDes1": "The international CMP platform integrates self-operated numbers and resale numbers from international carriers, providing a unified API capability interface. IoT customers can use their own application platforms to call the API interface to retrieve information related to data traffic of Internet of Things cards, SMS usage, card lifecycle status, etc.",
+  "introDes1": "The global CMP platform integrates self-operated numbers and resale numbers from international carriers, providing a unified API capability interface. IoT customers can use their own application platforms to call the API interface to retrieve information related to data traffic of Internet of Things cards, SMS usage, card lifecycle status, etc.",
   "introDes2": "To obtain the API specification, please download it under [System Management] - [Knowledge Base].",
-  "basicInfo": "Basic Information",
+  "basicInfo": "Account Info",
   "gwUserName": "Gateway Account Name",
   "cmpUserCode": "CMP Account",
   "cmpUserName": "CMP Account Name",

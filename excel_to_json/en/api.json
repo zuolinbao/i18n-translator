@@ -1,0 +1,23 @@
+{
+    "intro": "API Introduction",
+    "introDes1": "The global CMP platform integrates self-operated numbers and resale numbers from international carriers, providing a unified API capability interface. IoT customers can use their own application platforms to call the API interface to retrieve information related to data traffic of Internet of Things cards, SMS usage, card lifecycle status, etc.",
+    "introDes2": "To obtain the API specification, please download it under [System Management] - [Knowledge Base].",
+    "basicInfo": "Account Info",
+    "gwUserName": "Gateway Account Name",
+    "cmpUserCode": "CMP Account",
+    "cmpUserName": "CMP Account Name",
+    "appKey": "APP_Key",
+    "secretKey": "Secret_Key",
+    "createUserCode": "Created By",
+    "createDate": "Creation Date",
+    "updateUserCode": "Updated By",
+    "updateDate": "Update Date",
+    "viewPlain": "View Plain Text",
+    "currentEmail": "Email bound to the current account",
+    "checkCode": "Verification Code",
+    "sendCode": "Send",
+    "apiEdit": "API Key Modification",
+    "oldSecret": "Old Secret",
+    "newSecret": "New Secret",
+    "secretTip": "To ensure the normal use of the encryption algorithm, the key length is fixed at 9 characters. The key must contain uppercase and lowercase English letters and numbers. The key must not be consecutive numbers or passwords."
+}

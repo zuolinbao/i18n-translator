@@ -16,5 +16,11 @@
     "export": "导出",
     "beginTime": "开始时间",
     "endTime": "结束时间",
-    "showMoreBtn": "高级搜索"
+    "showMoreBtn": "高级搜索",
+    "ok": "确 定",
+    "cancel": "取 消",
+    "deleteSuccess": "删除成功！",
+    "yes": "是",
+    "no": "否",
+    "save": "保 存"
 }

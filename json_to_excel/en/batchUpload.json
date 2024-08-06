@@ -11,7 +11,7 @@
   "uploadTip1": "1. Import must be an xlsx file;",
   "uploadTip2": "2. Only import the first tab of the EXCEL file;",
   "uploadTip3": "3. The maximum file size is 10MB;",
-  "uploadTip4": "4. The maximum number of numbers is 10,000, which must include the international area code;",
+  "uploadTip4": "4. The maximum number of numbers is 1000, which must include the international area code;",
   "uploadTipSimMag": "4. The maximum number of numbers is {maxNum}, which must include the international area code;",
   "subtmitSuccess": "Upload successful",
   "subtmitFail": "Upload failed",
@@ -20,5 +20,7 @@
   "know": "Understood",
   "systemError": "System exception",
   "fileSize": "The uploaded file cannot exceed",
-  "fileType": "Incorrect file type, please confirm"
+  "fileType": "Incorrect file type, please confirm",
+  "actionSuccess": "Operation Successful",
+  "exportFail": "Export Failed"
 }

@@ -1,0 +1,16 @@
+{
+    "roleCode": "Role Code",
+    "roleName": "Role Name",
+    "qryTime": "Activation Time",
+    "createBtn": "Create Member",
+    "createStaffName": "Created By",
+    "createTime": "Creation Time",
+    "remark": "Remarks",
+    "modifyRoleCreate": "Create Role",
+    "modifyRoleEdit": "Edit Role",
+    "deleteAsk": "Are you sure you want to delete the selected role(s)?",
+    "menuName": "Menu Name",
+    "menuPriv": "Menu Privilege",
+    "privAction": "Action Privilege",
+    "checkAll": "Select All"
+}
