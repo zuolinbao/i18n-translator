@@ -1,11 +1,25 @@
 {
   "orderCode": "Order Code",
   "number": "Code",
-  "busType": "Account",
+  "busType": "Bussiness Type",
   "orderStatus": "Order Status",
   "account": "Account Status",
   "serviceTime": "Service Time",
   "cust": "Cust",
   "access": "Access Number",
-  "source": "Order Source"
+  "source": "Order Source",
+  "createStaffName": "Operator",
+  "offerInfo": "Package Information",
+  "offerName": "Package Name",
+  "operType": "Operation Type",
+  "fucName": "Function Attribute",
+  "objName": "Name",
+  "objType": "Type",
+  "originValue": "Original Value",
+  "newValue": "New Value",
+  "orderCodeTitle": "Order Code：",
+  "operTypeAdd": "Add",
+  "operTypeDelete": "Delete",
+  "operTypeChange": "Change",
+  "operTypeRemain": "Remain"
 }

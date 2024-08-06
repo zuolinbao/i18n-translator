@@ -13,5 +13,6 @@
   "detail": "Bulletin Detail",
   "createDate": "Publication Date: ",
   "updateDate": "Modification Date: ",
-  "back": "Back"
+  "back": "Back",
+  "setSuccess": "Set Successful!"
 }

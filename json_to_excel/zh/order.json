@@ -7,5 +7,19 @@
   "serviceTime": "受理时间",
   "cust": "客户",
   "access": "接入号",
-  "source": "订单来源"
+  "source": "订单来源",
+  "createStaffName": "操作员",
+  "offerInfo": "套餐信息",
+  "offerName": "套餐名称",
+  "operType": "操作类型",
+  "fucName": "功能属性",
+  "objName": "名称",
+  "objType": "类型",
+  "originValue": "原值",
+  "newValue": "新值",
+  "orderCodeTitle": "订单编号：",
+  "operTypeAdd": "新增",
+  "operTypeDelete": "删除",
+  "operTypeChange": "变更",
+  "operTypeRemain": "保持"
 }
