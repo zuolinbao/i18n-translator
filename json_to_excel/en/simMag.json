@@ -18,6 +18,7 @@
   "openDate": "Card Opening Date",
   "prodName": "Product Name",
   "prodNbr": "Product Code",
+  "attrName": "Configuration",
   "effDate": "Effective Date",
   "packageInfoTitle": "Main Package Information",
   "totalUsage": "Total Usage (MB)",
@@ -30,5 +31,8 @@
   "expDate": "Expiration Date",
   "statusCd": "Status",
   "statusCdGood": "Valid",
-  "statusCdBad": "Invalid"
+  "statusCdBad": "Invalid",
+  "totalUsageValue": "Total Amount",
+  "usageValue": "Used Amount",
+  "remainValue": "Remaining Amount"
 }

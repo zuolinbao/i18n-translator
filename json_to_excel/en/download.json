@@ -1,0 +1,20 @@
+{
+  "createTime": "Creation Time",
+  "statusCd": "Status Code",
+  "busiType": "Business Type",
+  "fileName": "File Name",
+  "taskProgress": "Task Progress",
+  "userCode": "Platform Account",
+  "startDate": "Task Start Date",
+  "endDate": "Task End Date",
+  "remark": "Remark",
+  "unfinishedTip": "This task is not fully processed and cannot be downloaded!",
+  "selectOne": "Please select one data item!",
+  "deleteOneAsk": "Are you sure you want to delete the selected task?",
+  "batchDeleteAsk": "Are you sure you want to delete the selected tasks?",
+  "statusCdAll": "All",
+  "statusCd1000": "Preparing",
+  "statusCd1001": "Completed",
+  "statusCd1002": "Processing",
+  "statusCd9999": "Failed"
+}

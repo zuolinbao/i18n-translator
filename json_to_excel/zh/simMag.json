@@ -18,6 +18,7 @@
   "openDate": "开卡时间",
   "prodName": "产品名称",
   "prodNbr": "产品编码",
+  "attrName": "配置信息",
   "effDate": "生效时间",
   "packageInfoTitle": "主套餐信息",
   "totalUsage": "总使用量(MB)",
@@ -30,5 +31,8 @@
   "expDate": "失效时间",
   "statusCd": "状态",
   "statusCdGood": "有效",
-  "statusCdBad": "无效"
+  "statusCdBad": "无效",
+  "totalUsageValue": "总量",
+  "usageValue": "已使用量",
+  "remainValue": "剩余量"
 }

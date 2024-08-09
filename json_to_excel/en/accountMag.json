@@ -3,7 +3,7 @@
   "userName": "User Name",
   "roleId": "Role ID",
   "statusCd": "Account Status",
-  "createTime": "Create Time",
+  "createTime": "Creation Time",
   "userCode": "Account Code",
   "roleName": "Role",
   "areaCode": "Area Code",

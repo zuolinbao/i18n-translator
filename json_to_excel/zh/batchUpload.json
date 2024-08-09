@@ -12,6 +12,7 @@
   "uploadTip2": "2、只导入EXCEL文件的第一个标签页；",
   "uploadTip3": "3、文件大小最大为10MB；",
   "uploadTip4": "4、号码最多1000个，需包含国际区号；",
+  "uploadTip5": "5、批量操作需要一定时间，稍后可通过刷新设备列表查看信息；",
   "uploadTipSimMag": "4、号码最多{maxNum}个，需包含国际区号；",
   "subtmitSuccess": "上传成功",
   "subtmitFail": "上传失败",

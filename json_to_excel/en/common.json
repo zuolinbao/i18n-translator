@@ -8,7 +8,7 @@
   "status": "Status",
   "remark": "Remark",
   "downloadMag": "Download",
-  "basicInfo": "Account",
+  "basicInfo": "Account Info",
   "logout": "Logout",
   "batchQuery": "Batch Query",
   "batchImport": "Batch Import",
