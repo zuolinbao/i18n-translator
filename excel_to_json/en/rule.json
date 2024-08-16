@@ -1,6 +1,6 @@
 {
-    "selectRule": "Set Rule",
-    "setRule": "",
+    "selectRule": "Select Rule",
+    "setRule": "Set Rule",
     "ruleName": "Rule Name",
     "supplier": "Supplier",
     "ruleType": "Rule Type",

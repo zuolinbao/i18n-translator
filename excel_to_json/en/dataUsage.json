@@ -1,6 +1,6 @@
 {
     "offerUsage": "Package Usage",
-    "custUsage": "Total Customer Usage",
+    "custUsage": "Total Usage",
     "billCycle": "Payment Period",
     "usageType": "Usage Category",
     "offerName": "Offer Name",

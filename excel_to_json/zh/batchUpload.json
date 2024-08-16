@@ -11,7 +11,8 @@
     "uploadTip1": "1、导入必须是xlsx文件；",
     "uploadTip2": "2、只导入EXCEL文件的第一个标签页；",
     "uploadTip3": "3、文件大小最大为10MB；",
-    "uploadTip4": "4、号码最多10000个，需包含国际区号；",
+    "uploadTip4": "4、号码最多1000个，需包含国际区号；",
+    "uploadTip5": "5、批量操作需要一定时间，稍后可通过刷新设备列表查看信息；",
     "uploadTipSimMag": "4、号码最多{maxNum}个，需包含国际区号；",
     "subtmitSuccess": "上传成功",
     "subtmitFail": "上传失败",
@@ -20,5 +21,7 @@
     "know": "知道了",
     "systemError": "系统异常",
     "fileSize": "上传文件不能超过",
-    "fileType": "文件类型错误，请确认"
+    "fileType": "文件类型错误，请确认",
+    "actionSuccess": "操作成功",
+    "exportFail": "导出失败"
 }

@@ -11,8 +11,8 @@
     "unread": "Unread",
     "unknown": "Unknown",
     "detail": "Bulletin Detail",
-    "createDate": "Publication Date:",
-    "updateDate": "Modification Date:",
+    "createDate": "Publication Date",
+    "updateDate": "Modification Date",
     "back": "Back",
     "setSuccess": "Set Successful!"
 }

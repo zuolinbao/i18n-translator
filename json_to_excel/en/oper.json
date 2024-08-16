@@ -1,11 +1,11 @@
 {
-  "operName": "Operation Name",
-  "operDate": "Operation Date",
-  "resultCode": "Result Code",
-  "clientIp": "Client IP",
-  "userCode": "User Account",
-  "traceId": "Trace Id",
-  "success": "Success",
-  "fail": "Fail",
-  "all": "All"
+    "operName": "Operation Name",
+    "operDate": "Operation Date",
+    "resultCode": "Result Code",
+    "clientIp": "Client IP",
+    "userCode": "User Account",
+    "traceId": "Trace Id",
+    "success": "Success",
+    "fail": "Fail",
+    "all": "All"
 }
