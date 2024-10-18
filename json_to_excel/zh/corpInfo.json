@@ -1,0 +1,12 @@
+{
+  "create": "新增",
+  "corpBasicInfo": "企业基本信息",
+  "corpName": "企业名称",
+  "corpId": "企业编码",
+  "paramInfo": "配置信息",
+  "paramName": "配置名称",
+  "operationTime": "操作时间",
+  "pleaseSelectParam": "请选择配置",
+  "upSmsPushAddress": "上行短信推送地址",
+  "deletePushAddress": "是否删除该推送地址"
+}

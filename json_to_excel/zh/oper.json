@@ -1,11 +1,11 @@
 {
-    "operName": "操作名称",
-    "operDate": "操作日期",
-    "resultCode": "操作结果",
-    "clientIp": "客户端IP",
-    "userCode": "操作账号",
-    "traceId": "唯一请求标识",
-    "success": "成功",
-    "fail": "失败",
-    "all": "全部"
+  "operName": "操作名称",
+  "operDate": "操作日期",
+  "resultCode": "操作结果",
+  "clientIp": "客户端IP",
+  "userCode": "操作账号",
+  "traceId": "唯一请求标识",
+  "success": "成功",
+  "fail": "失败",
+  "all": "全部"
 }

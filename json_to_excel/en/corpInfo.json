@@ -1,0 +1,12 @@
+{
+  "create": "Create",
+  "corpBasicInfo": "Basic Corporate Information",
+  "corpName": "Corporate Name",
+  "corpId": "Corporate ID",
+  "paramInfo": "Configuration Information",
+  "paramName": "Configuration Name",
+  "operationTime": "Operation Time",
+  "pleaseSelectParam": "Please Select Configuration",
+  "upSmsPushAddress": "Upstream SMS Push Address",
+  "deletePushAddress": "Delete This Push Address"
+}

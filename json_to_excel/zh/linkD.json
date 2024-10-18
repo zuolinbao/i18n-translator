@@ -1,11 +1,11 @@
 {
-    "oneClick": "一键诊断",
-    "oneClickDes": "查询单张卡状态、卡网络开通情况、机卡绑定情况、数据详单、卡近期上下线记录",
-    "resultTitle": "卡诊断完成，结果如下",
-    "basicInfo": "基础信息",
-    "resultDetailTitle": "诊断结果",
-    "resutlItemLabel1": "SIM卡状态",
-    "resutlItemContent1": "展示 SIM 卡状态",
-    "resutlItemLabel2": "SIM卡连接",
-    "resutlItemContent2": "通过 SIM 卡产品资料，判断 SIM 卡连接属性"
+  "oneClick": "一键诊断",
+  "oneClickDes": "查询单张卡状态、卡网络开通情况、机卡绑定情况、数据详单、卡近期上下线记录",
+  "resultTitle": "卡诊断完成，结果如下",
+  "basicInfo": "基础信息",
+  "resultDetailTitle": "诊断结果",
+  "resutlItemLabel1": "SIM卡状态",
+  "resutlItemContent1": "展示 SIM 卡状态",
+  "resutlItemLabel2": "SIM卡连接",
+  "resutlItemContent2": "通过 SIM 卡产品资料，判断 SIM 卡连接属性"
 }
